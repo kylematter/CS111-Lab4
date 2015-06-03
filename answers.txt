@@ -19,7 +19,7 @@ Email: kylematter@ucla.edu
 
 # Partner 2 (if you're working in a team)
 Name: Niels Pineda
-Student ID: 604272353
+Student ID: 604-272-353
 Email: niels.pineda@gmail.com
 
 # EXERCISE 1: What method you used to make your peer download and upload
